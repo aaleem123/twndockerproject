@@ -25,7 +25,7 @@ Screenshots for the project
 ![Screenshot 2025-06-18 120438](https://github.com/user-attachments/assets/6a928b62-98a7-43bc-9523-16cc7d54d68c)
 
 
-![Screenshot 2025-06-18 123608](https://github.com/user-attachments/assets/97178743-9c07-4369-9cea-0529f916c1ec)
+![Screenshot 2025-06-18 123608](https://github.com/user-attachments/assets/68ccd2a2-31b0-4eba-9617-1ad139b044d4)
 
 
 ![Screenshot 2025-06-18 133955](https://github.com/user-attachments/assets/2938231b-8ce3-4c30-b55f-992057ff1518)
