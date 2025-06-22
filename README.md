@@ -1,5 +1,6 @@
 Screenshots for the project 
 #### This project is for the Devops bootcamp exercise for Containers - Docker" 
+Java projects require a bigger instance, learned that through hours of grind, but a well learned concept for future. Maven, Gradle both need a larger instance to work on. 
 
 ![Screenshot 2025-06-17 170550](https://github.com/user-attachments/assets/cfe80b8c-a4e3-4637-a60c-43c8f5a6d385)
 
