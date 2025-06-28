@@ -1,5 +1,26 @@
-Screenshots for the project 
-#### This project is for the Devops bootcamp exercise for Containers - Docker" 
+
+# 🚀 Java Spring Boot Dockerized Application
+
+**Spring Boot Application** running in containers with:
+
+✅ Spring Boot Backend  
+✅ MySQL Database (Dockerized)  
+✅ phpMyAdmin for database UI  
+✅ Managed via `docker-compose`  
+✅ Images stored on Docker Hub  
+
+## 📦 Technologies Used
+
+- Java 17  
+- Spring Boot  
+- MySQL 8  
+- Docker & Docker Compose  
+- phpMyAdmin  
+- Docker Hub  
+
+Screenshots for the project :) 
+
+PS
 Java projects require a bigger instance, learned that through hours of grind, but a well learned concept for future. Maven, Gradle both need a larger instance to work on. 
 
 ![Screenshot 2025-06-17 170550](https://github.com/user-attachments/assets/cfe80b8c-a4e3-4637-a60c-43c8f5a6d385)
